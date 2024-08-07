@@ -1,5 +1,5 @@
 #!/bin/bash
 
-read HOSTNAME < /etc/hostname
+read HOSTNAME < /etc/hosts
 
 echo Hostname: $HOSTNAME
