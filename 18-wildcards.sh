@@ -15,3 +15,7 @@ echo
 # List all files with extension .md
 
 ls *.md
+echo
+
+# List all files which has 2 characters long extension starting with s
+ls *.s?
