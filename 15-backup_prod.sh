@@ -4,10 +4,10 @@
 #(/Users/wizard/Developer/bash_scripting/19-Backup_Script_Files/prod) - your location
 
 # Script takes one argument: destination path which needs to end with '/backup'
-# e.g. /Users/wizard/Developer/bash_scripting/19-Backup_Script_Files/backup
+# e.g. /Users/wizard/Developer/bash_scripting/15-Backup_Script_Files/backup
 
 
-PROD=/Users/wizard/Developer/bash_scripting/19-Backup_Script_Files/prod
+PROD=/Users/wizard/Developer/bash_scripting/15-Backup_Script_Files/prod
 
 # Argument check
 if [ $# -ne 1 ]; then

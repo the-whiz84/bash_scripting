@@ -1,0 +1,7 @@
+Thu Aug 8 10:51:36 EEST 2024
+  UID   PID  PPID   C STIME   TTY           TIME CMD
+    0     1     0   0 Mon08PM ??         8:25.79 /sbin/launchd
+    0   295     1   0 Mon08PM ??         6:26.75 /usr/libexec/logd
+    0   296     1   0 Mon08PM ??         0:00.06 /usr/libexec/smd
+    0   297     1   0 Mon08PM ??         0:18.10 /usr/libexec/UserEventAgent (System)
+=========

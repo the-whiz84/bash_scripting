@@ -1,0 +1,8 @@
+Name: Radu
+Age: 39
+Department: IT
+==================
+Name: Wizard
+Age: 40
+Department: CEO
+==================
